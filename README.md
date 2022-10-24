@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Moviefy+ E-commerce](https://hpfc.netlify.app/)
 
-- 🌱 I’m currently learning **Typescript,Python**
+- 🌱 I’m currently learning **Typescript,React Native**
 
 - 📫 How to reach me **angela11021997@gmail.com**
 
