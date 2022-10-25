@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Angela Testino</h1>
-<h3 align="center">A passionate fullstack web developer from Peru</h3>
+<h1 align="center">Hi 👋, I'm Angela</h1>
+<img align="center" alt="Coding" width="100%" src="https://user-images.githubusercontent.com/101151458/197674159-30cb7ad0-820f-48dc-8143-6453f233a666.png"/>
+
+<h3 align="center">I'm a passionate fullstack web developer with a bachelor's degree in systems engineering. I have experience working in React, NodeJS, Redux, SQL and other technologies in the sector. I participated an E-commerce project for the sale of cinema tickets and streaming service. I enjoy participating in challenging work as it aids my development, I easily adapt to change by integrating and learning new technologies and I work well in collaborative environments.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angelatestino&label=Profile%20views&color=0e75b6&style=flat" alt="angelatestino" /> </p>
 
