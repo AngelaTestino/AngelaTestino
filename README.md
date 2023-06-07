@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on [MDP](https://bootcamp-v.github.io/MDP-Website-Frontend/)
+- 🔭 I’m currently working on [MDP Website](https://bootcamp-v.github.io/MDP-Website-Frontend/)
 
 - 🌱 I’m currently learning **Angular, Cobol**
 
