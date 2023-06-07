@@ -8,9 +8,9 @@
 
 
 
-- 🔭 I’m currently working on [Cevetae](https://cevetae.vercel.app/)
+- 🔭 I’m currently working on [MDP](https://bootcamp-v.github.io/MDP-Website-Frontend/)
 
-- 🌱 I’m currently learning **Typescript, React Native**
+- 🌱 I’m currently learning **Angular, Cobol**
 
 
 
@@ -24,7 +24,7 @@
 <h2 align="left">Languages and Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img width='100%' src="https://skillicons.dev/icons?i=react,js,ts,redux,html,css,sass,tailwind,materialui,figma,git,nodejs,express,postgres,mongodb,vscode" />
+    <img width='100%' src="https://skillicons.dev/icons?i=react,angular,js,ts,redux,html,css,sass,tailwind,materialui,figma,git,nodejs,express,postgres,mongodb,vscode" />
   </a>
 </p>
 
